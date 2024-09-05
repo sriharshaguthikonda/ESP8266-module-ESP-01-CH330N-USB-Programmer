@@ -18,3 +18,18 @@ You will need:<br>
 1x 6mm through-hole momentary push button for the reset button<br>
 1x large electrolytic capacitor (220uF or higher at 6.3V min.)<br><br>
 GPIO 0 is tied to GND permanently so this programmer cannot be used to boot the ESP (though it may sometimes work anyway).
+
+
+![image](https://github.com/user-attachments/assets/2720fd59-aef4-4535-8c36-205325559f84)
+
+
+![image](https://github.com/user-attachments/assets/5c369dc8-e0f7-492a-b0a4-f4248769a8d6)
+
+
+![image](https://github.com/user-attachments/assets/9ccd5032-00f9-4b14-b8f1-fc89d16fc953)
+
+
+![IMG_20181220_100420](https://github.com/user-attachments/assets/74a52ecf-b903-480d-8cf7-3d201cf24b56)
+
+
+![IMG_20181220_100449](https://github.com/user-attachments/assets/a2fb5b81-0c4e-4103-aadc-39ec2a64275b)
