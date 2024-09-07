@@ -19,8 +19,7 @@ You will need:<br>
 1x large electrolytic capacitor (220uF or higher at 6.3V min.)<br><br>
 GPIO 0 is tied to GND permanently so this programmer cannot be used to boot the ESP (though it may sometimes work anyway).
 
-
-![image](https://github.com/user-attachments/assets/2720fd59-aef4-4535-8c36-205325559f84)
+![image](https://github.com/user-attachments/assets/7b15a4e7-357f-4e78-8e98-3e1f469efcf3)
 
 
 ![image](https://github.com/user-attachments/assets/5c369dc8-e0f7-492a-b0a4-f4248769a8d6)
