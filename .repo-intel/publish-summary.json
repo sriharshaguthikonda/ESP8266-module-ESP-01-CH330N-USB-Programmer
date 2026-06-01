@@ -1,0 +1,18 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/ESP8266-module-ESP-01-CH330N-USB-Programmer",
+    "generatedAt":  "2026-06-01T06:05:02.5536827Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  1,
+    "totalBytes":  80201,
+    "maps":  [
+                 {
+                     "name":  "master",
+                     "ref":  "refs/remotes/origin/master",
+                     "commit":  "deb1f8423335581d4ebf4bb9288225b88cfd6c92",
+                     "path":  ".repo-intel/branches/remote-origin/master__deb1f8423335/repo-map-full.json",
+                     "bytes":  76662
+                 }
+             ]
+}
